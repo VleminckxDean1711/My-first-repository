@@ -1,1 +1,2 @@
-Aanpassingen.html
+# ignore ALL .html files
+*.html
